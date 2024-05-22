@@ -1,3 +1,4 @@
 plotly==2.2.3
 xlrd
 pandas
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
